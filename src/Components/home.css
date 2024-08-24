@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+.page-wrapper{
+    height: 100vh;
+    max-width: 1075px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    padding: 0 43.75px;
+}
+
+.bg-body-tertiary{
+    background: none !important;
+}
+
+.country_title{
+  font-size: 24px;
+  color: #3D3D3D;
+  line-height: 34px;
+  font-weight: 700;
+}
+.Active{
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 21.79px;
+    color: #3E3E3E;
+    border-bottom: 2px solid #3E3E3E ;
+}
+.Non-Active{
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 21.79px;
+    color: #8B8B8B;
+    /* border-bottom: 2px solid #3E3E3E ;  */
+}
+.border_relative{
+    position: relative;
+}
+.bottom_border{
+    position: absolute;
+    bottom: 16px;
+    right: 2px;
+    width: 412px;
+
+    /* top: 0; */
+}
+.line_top{
+    height: 2px;
+    background: #3D3D3D;
+    /* position: absolute;
+    top: 0;
+    bottom: 0; */
+    /* color: #000; */
+}
+.top_border{
+    margin-top: 10px;
+    /* position: absolute; */
+    /* top: 0; */
+    /* left: 0;  */
+}
+
+.carousel-indicators{
+    /* border-radius: 50%;
+    height: 13px;
+    width: 13px; */
+
+}
+.container{
+    /* height: 100vh; */
+    /* max-width: 1075px;
+    margin: auto; */
+}

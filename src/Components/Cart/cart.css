@@ -1,0 +1,18 @@
+.card-page-wrapper{
+    /* height: 100vh; */
+    max-width: 1052px;
+    margin: auto;
+    /* display: flex;
+    align-items: center;
+    padding: 0 43.75px; */
+}
+.load_more{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.load_more button{
+    background: #3C3C3C;
+    color: #FCFCFC;
+    padding: 10px 20px;
+    font-size: 16px;
+}
